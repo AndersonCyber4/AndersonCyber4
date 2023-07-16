@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Build Your Custom SIEM with PowerShell and Microsoft Azure] (https://github.com/joshmadakor1/Algorithms-Practice)
+- [Build Your Custom SIEM with PowerShell and Microsoft Azure] (https://github.com/AndersonCyber4/SIEMAzureLab)
 
 
 <h2>📜 Certifications </h2>
