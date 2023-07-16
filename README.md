@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Build Your Custom SIEM with PowerShell and Microsoft Azure] (https://github.com/AndersonCyber4/SIEMAzureLab)
-- [Vulnerability Management with Nessus] (https://github.com/AndersonCyber4/VulnerabilityManagementNessus/blob/main/README.md)
+- [Vulnerability Management with Nessus] (https://github.com/AndersonCyber4/VulnerabilityManagementNessus)
 - [Ransomware Detected!] (https://github.com/AndersonCyber4/VulnerabilityManagementNessus/blob/main/README.md)
 <h2>📜 Certifications </h2>
 
