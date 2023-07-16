@@ -1,7 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm John!
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Build Your Custom SIEM with PowerShell and Microsoft Azure] (https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2>📜 Certifications </h2>
+
+- [CompTIA Security+] (https://www.credly.com/badges/0a6895a4-fe92-4565-94fb-2769ae9b543c)
+
+
+<h2> 🤳 Connect with me:</h2>
+
 
 <!--
-**AndersonCyber4/AndersonCyber4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
