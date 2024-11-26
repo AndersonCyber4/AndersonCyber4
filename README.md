@@ -1,6 +1,6 @@
 <h1>Hi, I'm John!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - [Build Your Custom SIEM with PowerShell and Microsoft Azure] (https://github.com/AndersonCyber4/SIEMAzureLab)
 - [Vulnerability Management with Nessus] (https://github.com/AndersonCyber4/VulnerabilityManagementNessus)
